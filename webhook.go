@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	stripe "github.com/stripe/stripe-go/v86"
-	"github.com/stripe/stripe-go/v86/webhook"
+	stripe "github.com/stripe/stripe-go/v87"
+	"github.com/stripe/stripe-go/v87/webhook"
 )
 
 // MaxWebhookBytes caps the body caisse will read from a webhook delivery.

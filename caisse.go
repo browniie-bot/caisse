@@ -26,7 +26,7 @@ import (
 	"sync"
 	"time"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 // ReferenceKey is the metadata key caisse writes your [CheckoutRequest.Reference]

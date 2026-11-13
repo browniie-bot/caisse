@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 const testWebhookSecret = "whsec_testsecret"

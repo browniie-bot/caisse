@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/stripe/stripe-go/v86/webhook"
+	"github.com/stripe/stripe-go/v87/webhook"
 )
 
 // Sign produces the Stripe-Signature header for a payload, so a test can drive

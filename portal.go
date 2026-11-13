@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/FacileStudio/tronc/errors"
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 // PortalURL opens a Stripe Billing Portal session and returns the URL to send

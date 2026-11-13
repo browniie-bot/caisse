@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 func TestWebhookIgnoresAnUnpaidSession(t *testing.T) {

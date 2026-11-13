@@ -4,7 +4,7 @@ import (
 	"maps"
 	"strings"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 // buildParams turns a validated request into the params Stripe will see.
