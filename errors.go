@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/FacileStudio/tronc/errors"
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 // wrap turns a Stripe failure into the suite error envelope, so an app can hand

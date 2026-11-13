@@ -3,7 +3,7 @@ package caisse
 import (
 	"time"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 func paymentFromSession(event stripe.Event, session *stripe.CheckoutSession) Payment {

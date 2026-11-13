@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/FacileStudio/tronc/errors"
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 // Refund reasons Stripe accepts. Anything else is rejected before the call.

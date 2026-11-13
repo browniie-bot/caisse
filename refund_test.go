@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/FacileStudio/tronc/errors"
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 func TestRefundSendsWhatStripeExpects(t *testing.T) {

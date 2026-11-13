@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	stripe "github.com/stripe/stripe-go/v86"
+	stripe "github.com/stripe/stripe-go/v87"
 )
 
 func (c *Client) dispatch(ctx context.Context, hooks Hooks, event stripe.Event) error {
